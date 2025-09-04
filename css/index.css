@@ -6,6 +6,12 @@
       gap: 1rem;
       margin-left: 200px;
       margin-right: 200px;
+      
+    }
+    .categories a p{
+      font-family: "Odor Mean Chey", serif;
+      font-weight: 400;
+      font-style: normal;
     }
 
     .card {
@@ -19,6 +25,7 @@
       justify-content: center;
       gap: 0.5rem;
       cursor: pointer;
+      
     }
 
     .card:hover { background: rgba(255,255,255,0.1); }
@@ -132,8 +139,6 @@
     padding: 20px 10px;
   }
 }
-
     
-
 
     

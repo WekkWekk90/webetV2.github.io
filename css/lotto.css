@@ -113,5 +113,13 @@ h2 {
         text-decoration: none;
         color: #fff;
     }
-
-    
+    h2{
+      font-family: "Odor Mean Chey", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+    .contentl .play-btn{
+      font-family: "Odor Mean Chey", serif;
+      font-weight: 400;
+      font-style: normal;
+    }

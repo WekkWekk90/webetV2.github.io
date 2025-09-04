@@ -62,3 +62,13 @@
     filter: blur(1px);
     opacity: 60%;
     }
+    h2{
+      font-family: "Odor Mean Chey", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+    .card-container .btn{
+      font-family: "Odor Mean Chey", serif;
+      font-weight: 400;
+      font-style: normal;
+    }

@@ -7,7 +7,9 @@
       border-left: 5px solid gold;
       padding-left: 10px;
       margin-bottom: 15px;
-      
+      font-family: "Odor Mean Chey", serif;
+      font-weight: 400;
+      font-style: normal;
     }
 
     .casino-grid {
@@ -60,6 +62,8 @@
     .other-casino {
       margin-top: 40px;
     }
+    
+    
 
     .other-grid {
       display: flex;
@@ -132,7 +136,11 @@
     filter: blur(1px);
     opacity: 60%;
     }
-
+    .card .btn{
+      font-family: "Odor Mean Chey", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
     
 
     

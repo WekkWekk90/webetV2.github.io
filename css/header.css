@@ -4,6 +4,7 @@ body {
       background: #292828;
       color: #fff;
       
+      
     }
     nav span{
       font-family: "Odor Mean Chey", serif;
@@ -16,6 +17,11 @@ body {
       font-style: normal;
     }
     header option{
+      font-family: "Odor Mean Chey", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+    .marquee{
       font-family: "Odor Mean Chey", serif;
       font-weight: 400;
       font-style: normal;
