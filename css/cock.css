@@ -31,11 +31,13 @@
       max-width: 90%;
       margin: 20px auto;
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(780px, 1fr));
       gap: 20px;
     }
 
     .cardc {
+      
+      height: auto;
       position: relative;
       overflow: hidden;
       border-radius: 10px;
@@ -61,7 +63,7 @@
     }
 
     .logo1 {
-      width: 100px;   /* adjust size as needed */
+      width: 140px;   /* adjust size as needed */
       height: auto;
       display: block;
     }
@@ -88,3 +90,5 @@
       font-weight: 400;
       font-style: normal;
     }
+
+  
