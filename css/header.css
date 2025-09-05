@@ -218,6 +218,10 @@ body {
     margin: 1rem auto;
     padding: 0 15px;
   }
+  .sec1 .cardc{
+        scale: 0.6;
+        
+    }
   
 }
 
@@ -314,7 +318,7 @@ body {
         margin-bottom: -15%;
     }
     .sec1 .cardc{
-        scale: 0.9;
+        scale: 0.4;
     }
   
 }
